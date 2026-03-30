@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-This repository contains my Digital Literacy Project submission for [Your Course Name]. 
+This repository contains my Digital Literacy Project submission for CSE0001 – Digital Literacy. 
 
 All required tasks are completed and organized into separate folders:
 
