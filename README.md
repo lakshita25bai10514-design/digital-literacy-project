@@ -11,6 +11,6 @@ All required tasks are completed and organized into separate folders:
 - **task-5-cybercrime/** – Cybercrime case study and prevention checklist  
 - **report/** – Complete project report (`Project_Report.docx`)
 
-All files are named clearly, screenshots are included, and the report follows proper formatting with headings, line spacing 1.5, and references.
+All files are named clearly, screenshots are included, and the report follows proper formatting with headings, and references.
 
 This repository represents my completed Digital Literacy portfolio.
